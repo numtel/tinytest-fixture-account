@@ -3,6 +3,8 @@
 Create a fixture account for running tests that require being logged in and
 then remove the account when complete.
 
+[![Build Status](https://travis-ci.org/numtel/tinytest-fixture-account.svg?branch=master)](https://travis-ci.org/numtel/tinytest-fixture-account)
+
 ## Installation
 The `accounts-password` package must be installed to use this package.
 
